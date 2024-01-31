@@ -26,10 +26,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+[![My walkthrough](https://img.youtube.com/vi/8aTJ3izWUJ0/0.jpg)](https://youtube.com/shorts/8aTJ3izWUJ0)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...
+I was not able to upload my GIF onto any online GIF hosting site. So I ended up just uploading a video recording onto Youtube.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
